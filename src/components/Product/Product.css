@@ -1,0 +1,22 @@
+.product {
+  display: flex;
+  border-bottom: 1px solid lightgray;
+  padding-bottom: 5px;
+}
+.product-name {
+  color: blue;
+  font-weight: 400;
+}
+div > p {
+  font-size: 20px;
+}
+.reguler-btn {
+  width: 150px;
+  height: 30px;
+  border: none;
+  border-radius: 10px;
+  background-color: aqua;
+}
+.icon-color {
+  color: gold;
+}
